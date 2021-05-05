@@ -36,7 +36,7 @@
     }
 },{
     "id":3,
-    "text":"'Hey you!' Roman turns around.He's at gunpoint.'You shouldn't have come here punk.'\n You hear the safety click. 'Any last word' Just as you think its the end the man toples over in a string of curses. 'JUMP IN' you turn around and notice there's a man in a car. Door wide open, A gun in his hand, smoke comming out of it. His whole face is obscured by a mask, only his eyes are visible.",
+    "text":"Roman is only a few meters away from the party when hears somebody. 'Hey punk!' As soon as Roman turns around a gun is pressed to his stomach.'You shouldn't have come here.'Roman gulps down, he really thought luck was on hisa side tonight. 'Any last word' Roman can already see the afterlife when the man suddenly toples over in a string of curses. 'JUMP IN' Roman turns around and notices there's a man in a car. Door wide open, A gun in his hand, smoke comming out of it. His whole face is obscured by a mask, only his eyes are visible.",
     "options":{
         "id0":{
             "text":"Jump in",
@@ -60,7 +60,7 @@
     }
 },{
     "id":5,
-    "text":"Roman decides that being a few minutes late won't make a huge difference and decides to take the longer route. In the end it proves to be a good decision as the party isn't in full swing just yet, when he arrivers.\n Roman breaths oout a sign of relief and focus on what he was supposed to do at the party, which is securing an interview with...",
+    "text":"Roman decides that being a few minutes late won't make a huge difference and decides to take the longer route. In the end it proves to be a good decision as the party isn't in full swing just yet, when he arrivers.\n Roman breaths out a sign of relief and focus on what he was supposed to do at the party, which is securing an interview with...",
     "options":{
         "id0":{
             "text":"Janus",
@@ -84,7 +84,7 @@
     }
 },{
     "id":7,
-    "text":"You spot the famous polititian sorouned by a swarm of woman from all ages. After all this man became so popular due to his his support for women rights and activly fighting for the ban of alcohol. He was getting a lot of side glances. Roman decided to approach him",
+    "text":"Roman spots the famous polititian sorouned by a swarm of woman from all ages. After all this man became so popular due to his his support for women rights and activly fighting for the ban of alcohol. He was getting a lot of side glances. Roman decided to approach him",
     "options":{
         "id0":{
             "text":"CLIFFHanger",
@@ -93,7 +93,7 @@
     }
 },{
     "id":8,
-    "text":"You jump into the strangers car. If he wanted to shoot you he would have done so while your back was turned to him you reason. Just as you are about to thank him the man speaks up.\n 'You gotta watch your back Rem. Pat will have your head if I'll have to drag your wounded body to his clinic again.'\n",
+    "text":"Roman jumps into the strangers car. If he wanted to shoot him he would have done so while his back was turned to him, Roman reason. Just as the journalist is about to thank the driver the man speaks up.\n 'You gotta watch your back Rem. Pat will have your head if I'll have to drag your wounded body to his clinic again.'\n",
     "options":{
         "id0":{
             "text":"Who's Pat?",
@@ -105,7 +105,7 @@
     }
 },{
     "id":9,
-    "text":"The mans eyes widen and he takes a closer look at you.\n 'Oh crap! You're not Remus!' He says before he takes a sharp U turn rushing back.\n A figure in green jumps onto the road and the driver stops just a few centemeters short of hitting him. As soon as they stop the figure rips the passenger seat open.\n Their eyes widden momentarily before they squeez themselves net to Roman. The driver starts the car before the door fully closses. The sounds of bullets chaisng them.",
+    "text":"The mans eyes widen and he takes a closer look at Roman.\n 'Oh crap! You're not Remus!' He says before he takes a sharp U turn rushing back.\n A figure in green jumps onto the road and the driver stops just a few centemeters short of hitting him. As soon as they stop the figure rips the passenger seat open.\n Their eyes widden momentarily before they squeez themselves next to Roman. The driver starts the car before the door fully closses. The sounds of bullets chaisng them.",
     "options":{
         "id0":{
             "text":"Next",
@@ -123,7 +123,7 @@
     }
 },{
     "id":11,
-    "text":"'If you wanted to ditch me you should have done so for someone more handsome then me, Vee.' The man in green states. Is this guy insane? The driver-Vee laughs at the statement. 'You're not setting the bar very hight'\n 'You wound me' The man gasps dramatically and slides slightly down the seat, earning himself a chuckle from Vee, who turn to Roman. 'Sorry for accidentally kindnapping you. Where should we drop you off?'",
+    "text":"'If you wanted to ditch me you should have done so for someone more handsome then me, Vee.' The man in green states. Is this guy insane? The driver-Vee laughs at the statement. 'You're not setting the bar very hight'\n 'You wound me, deer friend' The man gasps dramatically and slides slightly down the seat, earning himself a chuckle from Vee, who turn to Roman. 'Sorry for accidentally kindnapping you.' He says more amused then concerned. 'Where should we drop you off?'",
     "options":{
         "id0":{
             "text":"'The gala'",
@@ -135,11 +135,14 @@
     }
 },{
     "id":12,
-    "text":"Vee smiles a smile that's just a bit unnerving.\n 'Think of us as chofeurs for the night' Roman decides it's wise not to press the matter.\n 'To the gala then if you don't mind mr. V' Remus snickers at the nickname and Vee just rolls his eyes. They drop him off a block away from the party. Normally Roman would argue but Vee just saved his life and shot a man in front of him so he decided not to press his luck. He walks the few meters.",
+    "text":"The silence that follows is enough of a sign that Roman should not be asking the question.\n 'Think of us as chofeurs for the night' Roman decides it's wise not to press the matter.\n 'To the gala then if you don't mind mr. V' Remus snickers at the nickname. They drop him off a block away from the party. Normally Roman would argue but Vee just saved his life and shot a man in front of him so he decided not to press his luck. He walks the few meters.\n The journalist arrivea a few minutes late but the party isn't in full swing just yet.\n Roman breaths out a sign of relief and focus on what he was supposed to do at the party, which is securing an interview with...",
     "options":{
         "id0":{
-            "text":"Next",
-            "next":5
+            "text":"Janus",
+            "next":7
+        },"id1":{
+            "text":"Piccani",
+            "next":13
         }
     }
 },{
