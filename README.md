@@ -2,7 +2,7 @@
 
 this is a demo wersion of the roaring 20's visual novel. For now it's code heavy but it's open source. I might change the code side so it's a bit easier to access. For now if you want to try out parts of the story all you have to do is:
 
-1:Chose the folder you want to have the story in.
+1:Chose the folder you want to have the story in.\n
 2:Copy the path and open Command prompt on yout PC
 3.wrtie: cd the_full_path_that_you_copied 
 4.hit enter
