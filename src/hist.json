@@ -1,6 +1,6 @@
 [{
     "id": 0,
-    "text": "The last few months have been tough on Roman.\n Clawing his way to one of the top journalists wasn't an easy ride but he didn't regret a single minute of it. In the end it was all woth it. Not only was his last entry a roaring success but his boss asked him to fil in for him at the gala.\n To say Roman was thrilled would be an understatemnt.\n Luck was finally on his side.",
+    "text": "The last few months have been tough on Roman.\n Clawing his way to one of the top journalists wasn't an easy ride but he didn't regret a single minute of it. In the end it was all woth it. Not only was his last article a roaring success but his boss asked him to fil in for him at the gala.\n To say Roman was thrilled would be an understatemnt.\n Luck was finally on his side.",
     "options": {
         "id0":{
             "text":"next",
@@ -36,7 +36,7 @@
     }
 },{
     "id":3,
-    "text":"Roman is only a few meters away from the party when hears somebody.\n 'Hey punk!' As soon as Roman turns around a gun is pressed to his stomach.'You shouldn't have come here.'Roman gulps down, he really thought luck was on hisa side tonight. 'Any last word' Roman can already see the afterlife when the man suddenly toples over in a string of curses. 'JUMP IN' Roman turns around and notices there's a man in a car. Door wide open, A gun in his hand, smoke comming out of it. His whole face is obscured by a mask, only his eyes are visible.",
+    "text":"Roman is only a few meters away from the party when hears somebody.\n 'Hey punk!' As soon as Roman turns around a gun is pressed to his stomach.'You shouldn't have come here.'Roman gulps down, he really thought luck was on hisa side tonight. 'Any last word' Roman can already see the afterlife when the man suddenly toples over in a string of curses.\n 'JUMP IN' Roman turns around and notices there's a man in a car. Door wide open, A gun in his hand, smoke comming out of it. His whole face is obscured by a mask, only his eyes are visible.",
     "options":{
         "id0":{
             "text":"Jump in",
@@ -105,7 +105,7 @@
     }
 },{
     "id":9,
-    "text":"The mans eyes widen and he takes a closer look at Roman.\n 'Oh crap! You're not Remus!' He says before he takes a sharp U turn rushing back.\n A figure in green jumps onto the road and the driver stops just a few centemeters short of hitting him. As soon as they stop the figure rips the passenger seat open.\n Their eyes widden momentarily before they squeez themselves next to Roman. The driver starts the car before the door fully closses. The sounds of bullets chaisng them.",
+    "text":"The mans eyes widen and he takes a closer look at Roman.\n 'Oh crap! You're not Remus!' He says before he takes a sharp U turn rushing back.\n A figure in green jumps onto the road and the driver stops just a few centemeters short of hitting him. As soon as they stop the figure rips the passenger seat open.\n Their eyes widden momentarily before they squeeze themselve next to Roman. The driver starts the car before the door fully closses. The sounds of bullets chaisng them.",
     "options":{
         "id0":{
             "text":"Next",
@@ -196,7 +196,7 @@
     }
 },{
     "id":18,
-    "text":"WARNING!\nlight swearing\ngun violence\nblood\ninjury",
+    "text":"WARNING!\nlight swearing, gun violence, blood, injury\n If you notice more trigger warnings pls let me know and i'll add them",
     "options":{
         "id0":{
             "text":"proceed",
