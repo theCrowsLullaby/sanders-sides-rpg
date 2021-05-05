@@ -3,7 +3,7 @@ import React,{Component} from "react";
 import historia from "./hist.json"
 import Options from "./Options.js"
 
-var start=0;
+var start=18;
 class App extends Component{
   constructor(){
     super()
