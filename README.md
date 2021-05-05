@@ -16,6 +16,6 @@ this is a demo wersion of the roaring 20's visual novel. For now it's code heavy
 
 7.download the src file from this repository and interchange it with the existing src file in your tss-rpg folder
 
-8.go back to your command prompt and write: #npm start
+8.go back to your command prompt and write: npm start
 
 9.The game will load and you can start playing
