@@ -1,6 +1,6 @@
 [{
     "id": 0,
-    "text": "The last few months have been tough on Roman.\n Clawing his way to one of the top journalists wasn't an easy rode but he didn't regret a single minute of it. In the end it was all woth it. Not only was his last entry a roaring success but his boss asked him to fil in for him at the gala. To say Roman was thrilled would be an understatemnt.\n Luck was finally on his side.",
+    "text": "The last few months have been tough on Roman.\n Clawing his way to one of the top journalists wasn't an easy ride but he didn't regret a single minute of it. In the end it was all woth it. Not only was his last entry a roaring success but his boss asked him to fil in for him at the gala.\n To say Roman was thrilled would be an understatemnt.\n Luck was finally on his side.",
     "options": {
         "id0":{
             "text":"next",
@@ -12,7 +12,7 @@
 
 {
     "id":1,
-    "text":"There was only one issue Roman had to solve before goin out for the evening. And that was his clothing choice.\n Call him shallow but according to Roman first impression were very important. He became rocognizable due to his clothing always being adored by something red. Be it the suit itself, a scarf or a hat. But the party throwewrs deceided to make a sea themed party due to some important marine officer attending it.\n That left Roman with the choice whether he should choose his usual getup and stend out or blend in with his more tonned down grean suit.",
+    "text":"There was only one issue Roman had to solve before goin out for the evening. And that was his clothing choice.\n Call him shallow but according to Roman first impressions are very important. He became recognizable due to his clothing always being adored by something red. Be it the suit itself, a scarf or a hat. But the party throwers deceided to make the gala a sea themed party due to some important marine general being a guest of honour.\n That left Roman with the choice whether he should choose his usual getup and stand out or blend in with his more tonned down green suit.",
     "options":{
         "id0":{
             "text":"Wear green",
@@ -24,7 +24,7 @@
     }
 },{
     "id":2,
-    "text":"After much delibaration the journalist finaly decided to wear the green suit. It's not his usual color but he has to admit it does bring out his eyes. As much as he likes to stand out maybe waring something in tune with the dress code will highten his chances of securing some interviews. Adjusting his tie Roman notices the time.\n 'SH*T' he swears loudly trying to tie the tie faster but only managing it to tangle it.\n There is no way he's gonna make it on time, unless he's gonna take a shortcut through the notorious Crystal therithory. He's be like a walking target.\n Then again he'd prefer to be punctual to his first important Gala.\n Is his life really worth risking making a good first impression?",
+    "text":"After much delibaration the journalist finaly decided to wear the green suit. It's not his usual color but he has to admit it does bring out his eyes.\n As much as he likes to stand out maybe waring something in tune with the dress code will highten his chances of securing some interviews. Adjusting his tie Roman notices the time.\n 'SH*T' he swears loudly trying to tie the tie faster but only managing it to tangle it.\n There is no way he's gonna make it on time, unless he's gonna take a shortcut through the notorious Crystal therithory where he'll mind end up with more holes in his body then swiss cheese.\n Then again he'd prefer to be punctual to his first important Gala.\n Is his life really worth risking making a good first impression?",
     "options":{
         "id0":{
             "text":"Take a shorcut!",
@@ -36,7 +36,7 @@
     }
 },{
     "id":3,
-    "text":"Roman is only a few meters away from the party when hears somebody. 'Hey punk!' As soon as Roman turns around a gun is pressed to his stomach.'You shouldn't have come here.'Roman gulps down, he really thought luck was on hisa side tonight. 'Any last word' Roman can already see the afterlife when the man suddenly toples over in a string of curses. 'JUMP IN' Roman turns around and notices there's a man in a car. Door wide open, A gun in his hand, smoke comming out of it. His whole face is obscured by a mask, only his eyes are visible.",
+    "text":"Roman is only a few meters away from the party when hears somebody.\n 'Hey punk!' As soon as Roman turns around a gun is pressed to his stomach.'You shouldn't have come here.'Roman gulps down, he really thought luck was on hisa side tonight. 'Any last word' Roman can already see the afterlife when the man suddenly toples over in a string of curses. 'JUMP IN' Roman turns around and notices there's a man in a car. Door wide open, A gun in his hand, smoke comming out of it. His whole face is obscured by a mask, only his eyes are visible.",
     "options":{
         "id0":{
             "text":"Jump in",
@@ -196,14 +196,11 @@
     }
 },{
     "id":18,
-    "text":"",
+    "text":"WARNING!\nlight swearing\ngun violence\nblood\ninjury",
     "options":{
         "id0":{
-            "text":"",
-            "next":1
-        },"id1":{
-            "text":"",
-            "next":1
+            "text":"proceed",
+            "next":0
         }
     }
 },{
