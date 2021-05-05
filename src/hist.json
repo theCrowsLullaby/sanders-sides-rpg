@@ -1,20 +1,18 @@
 [{
     "id": 0,
-    "text": "Chose the character you'd like to play as:",
+    "text": "The last few months have been tough on Roman.\n Clawing his way to one of the top journalists wasn't an easy rode but he didn't regret a single minute of it. In the end it was all woth it. Not only was his last entry a roaring success but his boss asked him to fil in for him at the gala. To say Roman was thrilled would be an understatemnt.\n Luck was finally on his side.",
     "options": {
         "id0":{
-            "text":"a journalist",
+            "text":"next",
             "next":1
-        },"id1":{
-            "text":"a mafia member",
-            "next":0
         }
+        
     }
   },
 
 {
     "id":1,
-    "text":"The last few months have been tough on Roman. Clawing his way to one of the top journalists wasn't an easy rode but he didn't regret a single minute of it. In the end it was all woth it. Not only was his last entry a roaring success but his boss asked him to fil in for him at the gala. To say Roman was thrilled would be an understatemnt.\n The only problem he was facing was the clothing choice. \nCall him shallow but according to Roman first impression were very important. He became rocognizable due to his clothing always being adored by something red. Be it the suit itself, a scarf or a hat. But the party throwewrs deceided to make a sea themed party due to some important marine officer attending it.\n That left Roman with the choice whether he should choose his usual getup and stend out or blend in with his more tonned down grean suit.",
+    "text":"There was only one issue Roman had to solve before goin out for the evening. And that was his clothing choice.\n Call him shallow but according to Roman first impression were very important. He became rocognizable due to his clothing always being adored by something red. Be it the suit itself, a scarf or a hat. But the party throwewrs deceided to make a sea themed party due to some important marine officer attending it.\n That left Roman with the choice whether he should choose his usual getup and stend out or blend in with his more tonned down grean suit.",
     "options":{
         "id0":{
             "text":"Wear green",
@@ -26,7 +24,7 @@
     }
 },{
     "id":2,
-    "text":"Oh shoot! you notice the time!",
+    "text":"After much delibaration the journalist finaly decided to wear the green suit. It's not his usual color but he has to admit it does bring out his eyes. As much as he likes to stand out maybe waring something in tune with the dress code will highten his chances of securing some interviews. Adjusting his tie Roman notices the time.\n 'SH*T' he swears loudly trying to tie the tie faster but only managing it to tangle it.\n There is no way he's gonna make it on time, unless he's gonna take a shortcut through the notorious Crystal therithory. He's be like a walking target.\n Then again he'd prefer to be punctual to his first important Gala.\n Is his life really worth risking making a good first impression?",
     "options":{
         "id0":{
             "text":"Take a shorcut!",
@@ -50,7 +48,7 @@
     }
 },{
     "id":2,
-    "text":"Oh shoot! you notice the time!",
+    "text":"After much delibaration the journalist finaly decided to wear the red suit. After all he hadn't gotten so far in his carrier by blending into the masses and standing out always felt outstanding to him. Adjusting his tie Roman notices the time.\n 'SH*T' he swears loudly trying to tie the tie faster but only managing it to tangle it.\n There is no way he's gonna make it on time, unless he's gonna take a shortcut through the notorious Crystal therithory. He's be like a walking target.\n Then again he'd prefer to be punctual to his first important Gala.\n Is his life really worth risking making a good first impression?",
     "options":{
         "id0":{
             "text":"Take a shorcut!",
@@ -62,19 +60,19 @@
     }
 },{
     "id":5,
-    "text":"You arrive a bit later then anticipated but you notice that you're not the last one who arrived. Whith a sign of relief you focus on finding your target. After all your main objective is to interview",
+    "text":"Roman decides that being a few minutes late won't make a huge difference and decides to take the longer route. In the end it proves to be a good decision as the party isn't in full swing just yet, when he arrivers.\n Roman breaths oout a sign of relief and focus on what he was supposed to do at the party, which is securing an interview with...",
     "options":{
         "id0":{
             "text":"Janus",
             "next":7
         },"id1":{
-            "text":"Piccani",
+            "text":"Dr. Picani",
             "next":13
         }
     }
 },{
     "id":6,
-    "text":"You arrive ahead of time. The ballroom is mostly empty so you decide to help yourself to some fingerfood before doing what you were tasked with, which is securing an interview with",
+    "text":"Roman figured taking the shortcut was just one more of a risk in his path to greatness. In the end it proved to be a good decision as he arrived safe and sound. He was even a few minutes early. The ballroom is mostly empty so you decide to help yourself to some fingerfood before doing what you were tasked with, which is securing an interview with",
     "options":{
         "id0":{
             "text":"Janus",
@@ -89,7 +87,7 @@
     "text":"You spot the famous polititian sorouned by a swarm of woman from all ages. After all this man became so popular due to his his support for women rights and activly fighting for the ban of alcohol. He was getting a lot of side glances. Roman decided to approach him",
     "options":{
         "id0":{
-            "text":"Next",
+            "text":"CLIFFHanger",
             "next":1
         }
     }
@@ -129,7 +127,7 @@
     "options":{
         "id0":{
             "text":"'The gala'",
-            "next":1
+            "next":5
         },"id1":{
             "text":"'Who are you guys?'",
             "next":12
@@ -146,7 +144,7 @@
     }
 },{
     "id":13,
-    "text":"Piccani is a man of many trades. Zowodowo jest psychologiem, but he has a succesfull newspaper that his child, Elliot, manages and recently he tries to get elected as the city president. He is the only candidat that poses a threat to the re-election of Janus.\n He stands together with the famus marine admiral and a few other gentle-man. Roman decides to approach them.",
+    "text":"Dr.Picani is a man of many trades. Career-wise he is a phycologist but due to his friendly personality and outgoing demeenor he has soon become a public figure. He has led many charities and the town people adore him.\n Popularity runs in the Picani family as his child, Elliot, manages one of the most, if not the most, popular newspapers in the city- The Cartoonist. Roman would kill to be employed by them to prove his worth as a journalist.\n Dr. Picani has stayed away from politics up until this year when he decided to run for the Major office. He is the only candidat that poses a threat to the re-election of Janus.",
     "options":{
         "id0":{
             "text":"Next",
@@ -155,49 +153,41 @@
     }
 },{
     "id":14,
-    "text":"They did not call Roman prince charming for nothing as he's able to sway them with conversation and secure a Interview with not only Piccani but the genera as well.",
+    "text":"Dr. Picani stands together with the famous marine admiral and a few other gentle-man. Roman decides to approach them.\n They did not call Roman prince charming in school for nothing as he flawlessly joins the conversation and slowly brings the atention to himself. Picani offers him a trial period at The Cartoonist.",
     "options":{
         "id0":{
-            "text":"",
-            "next":1
-        },"id1":{
-            "text":"",
-            "next":1
+            "text":"Stck with your stable job",
+            "next":15
+        },
+        "id1":{
+            "text":"accept the proposal",
+            "next":17
         }
     }
 },{
     "id":15,
-    "text":"",
+    "text":"Well i do have a stable job- the future of Romans newspaper hangs on his shoulders.",
     "options":{
         "id0":{
-            "text":"",
-            "next":1
-        },"id1":{
-            "text":"",
+            "text":"Next",
             "next":1
         }
     }
 },{
     "id":16,
-    "text":"",
+    "text":"Roman secures an interview not only with Picani but also with the General.\n Picani get's elected as major and with sweat and tears of Roman and his collegues their newspaper becomes recognisable all over the state",
     "options":{
         "id0":{
-            "text":"",
-            "next":1
-        },"id1":{
-            "text":"",
+            "text":"restart",
             "next":1
         }
     }
 },{
     "id":17,
-    "text":"",
+    "text":"This is the oportunity Roman has been hoping for and he accepts it in a heartbeat.",
     "options":{
         "id0":{
-            "text":"",
-            "next":1
-        },"id1":{
-            "text":"",
+            "text":"CLIFFHANGER",
             "next":1
         }
     }
@@ -239,7 +229,7 @@
     }
 },{
     "id":21,
-    "text":"'I'm not getting into your car!'\n The man looks taken aback for a moment before he scrunches up his nose. 'We don't have time for this Roman!'\n He doesn't get the chance to ask why he knows his name when he hears a grunt behind him. The man came back to his sences and is holding the gun back up and aim at Virgil",
+    "text":"'I'm not getting into your car!'\n The man looks taken aback for a moment before he scrunches up his nose. 'We don't have time for this Prince!'\n He doesn't get the chance to ask why he knows his surname when he hears a grunt behind him. The man came back to his sences and is holding the gun back up and aim at Virgil",
     "options":{
         "id0":{
             "text":"run",
@@ -251,10 +241,10 @@
     }
 },{
     "id":22,
-    "text":"You get framed for murder! Hurray!",
+    "text":"Every fiber of Roman's being screams at him to run as fast as he can. His back is turned turned the the man before he can fire the gun. He almost makes it around the corner when he feels a sharp pain in his leg. Before he is able to scream he feels a sharp pain in his head and everything slowly gets black.",
     "options":{
         "id0":{
-            "text":"restart",
+            "text":"welp. You died. better luck next time",
             "next":1
         }
     }
@@ -276,7 +266,7 @@
     "options":{
         "id0":{
             "text":"next",
-            "next":1
+            "next":25
         }
     }
 },{
@@ -309,7 +299,7 @@
             "next":28
         },"id1":{
             "text":"Rest them wounds",
-            "next":1
+            "next":73
         }
     }
 },{
@@ -318,7 +308,7 @@
     "options":{
         "id0":{
             "text":"Go back to bed",
-            "next":1
+            "next":30
         },"id1":{
             "text":"Keep eavesdropping",
             "next":29
@@ -338,11 +328,8 @@
     "text":"Roman settles in. He wonders what's beimg said but he doesnt have to wait too long for Virgil to show up.",
     "options":{
         "id0":{
-            "text":"",
-            "next":1
-        },"id1":{
-            "text":"",
-            "next":1
+            "text":"Next",
+            "next":31
         }
     }
 },{
@@ -354,7 +341,7 @@
             "next":32
         },"id1":{
             "text":"'Thanks for saving me'",
-            "next":1
+            "next":34
         }
     }
 },{
@@ -388,9 +375,6 @@
         "id0":{
             "text":"Next",
             "next":33
-        },"id1":{
-            "text":"",
-            "next":1
         }
     }
 },{
@@ -400,9 +384,6 @@
         "id0":{
             "text":"Next",
             "next":36
-        },"id1":{
-            "text":"",
-            "next":1
         }
     }
 },{
@@ -412,9 +393,6 @@
         "id0":{
             "text":"",
             "next":37
-        },"id1":{
-            "text":"",
-            "next":1
         }
     }
 },{
@@ -424,9 +402,6 @@
         "id0":{
             "text":"",
             "next":38
-        },"id1":{
-            "text":"",
-            "next":1
         }
     }
 },{
@@ -436,9 +411,6 @@
         "id0":{
             "text":"next",
             "next":39
-        },"id1":{
-            "text":"",
-            "next":1
         }
     }
 },{
@@ -449,7 +421,7 @@
             "text":"Logan",
             "next":40
         },"id1":{
-            "text":"Piccani",
+            "text":"Piccani-CLIFFHANGER",
             "next":1
         }
     }
@@ -472,9 +444,6 @@
         "id0":{
             "text":"Epilogue",
             "next":42
-        },"id1":{
-            "text":"",
-            "next":1
         }
     }
 },{
@@ -500,10 +469,10 @@
     "text":"talk",
     "options":{
         "id0":{
-            "text":"piccani",
-            "next":45
+            "text":"piccani-CLIFF",
+            "next":1
         },"id1":{
-            "text":"undercover",
+            "text":"undercover-CLIFF",
             "next":1
         }
     }
@@ -521,7 +490,7 @@
     "text":"work",
     "options":{
         "id0":{
-            "text":"n4ext",
+            "text":"next",
             "next":47
         },"id1":{
             "text":"",
@@ -550,7 +519,7 @@
         }
     }
 },{
-    "id":48,
+    "id":49,
     "text":"Janus is comming. Set everything up.",
     "options":{
         "id0":{
@@ -700,7 +669,7 @@
         }
     }
 },{
-    "id":62,
+    "id":63,
     "text":"he wants to go back home.",
     "options":{
         "id0":{
@@ -712,16 +681,16 @@
         }
     }
 },{
-    "id":63,
+    "id":64,
     "text":"Go back home and pack franctically",
     "options":{
         "id0":{
             "text":"next",
-            "next":64
+            "next":65
         }
     }
 },{
-    "id":64,
+    "id":65,
     "text":"they find you after two years. Bullet to the head :D",
     "options":{
         "id0":{
@@ -730,19 +699,19 @@
         }
     }
 },{
-    "id":65,
+    "id":66,
     "text":"'Virgil' The womans eyes go wide. Bingo. She turn around quickly.",
     "options":{
         "id0":{
             "text":"Go after him",
-            "next":67
+            "next":68
         },"id1":{
             "text":"focus on the mission",
-            "next":66
+            "next":67
         }
     }
 },{
-    "id":66,
+    "id":67,
     "text":"getting ready for the door opening",
     "options":{
         "id0":{
@@ -754,66 +723,60 @@
         }
     }
 },{
-    "id":67,
+    "id":68,
     "text":"'Virgil.WAIT!'He looks panicked.\n'Don't call me that' He stage whipears while looking around franctically.A few patrons are looking at you but you glare at them and they start minding your own buisness.\n 'You have to get out' You stage whisper back. Virgil raises an eyebrow. 'Now' You insist.\n Virgil bites his lip and looks around for a while. He signs before grabbing Romans hand and leading him a to a deseted part of the ballroom.",
     "options":{
         "id0":{
             "text":"Next",
-            "next":68
+            "next":69
         }
     }
 },{
-    "id":68,
+    "id":69,
     "text":"He crosses his arms and leans agains the wall.\n 'Alright. Spill.'\n 'You need to evacuate. There will be a shooting any minute now.'\n'Oh really! And how would you know?'\n 'Please just listen...' Virgil eyes go wide.\n 'You're the one who's supposed to let them in'",
     "options":{
         "id0":{
             "text":"Agree",
-            "next":69
+            "next":70
         },"id1":{
             "text":"Deny",
             "next":1
         }
     }
 },{
-    "id":69,
+    "id":70,
     "text":"'They've sent me on a suicide mission and I'm trying everything in my power to stop a massacre' Roman says. 'I don't know how I can stop them. Plz help.'",
     "options":{
         "id0":{
-            "text":"",
-            "next":71
-        }
-    }
-},{
-    "id":70,
-    "text":"'I've overheard sb talking about it. And I don't know who I can trust here or how many men they have on the inside'",
-    "options":{
-        "id0":{
-            "text":"",
+            "text":"next",
             "next":71
         }
     }
 },{
     "id":71,
+    "text":"'I've overheard sb talking about it. And I don't know who I can trust here or how many men they have on the inside'",
+    "options":{
+        "id0":{
+            "text":"next",
+            "next":72
+        }
+    }
+},{
+    "id":72,
     "text":"They get to the back room and meet Janus",
     "options":{
         "id0":{
-            "text":"",
-            "next":1
-        },"id1":{
-            "text":"",
+            "text":"CLIFF_HANGER",
             "next":1
         }
     }
 },{
-    "id":54,
-    "text":"",
+    "id":73,
+    "text":"Roman cathes a few Z's before Virgil arrives",
     "options":{
         "id0":{
-            "text":"",
-            "next":1
-        },"id1":{
-            "text":"",
-            "next":1
+            "text":"next",
+            "next":31
         }
     }
 },{
