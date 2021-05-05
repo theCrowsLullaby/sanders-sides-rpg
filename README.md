@@ -4,19 +4,18 @@ this is a demo wersion of the roaring 20's visual novel. For now it's code heavy
 
 1.Chose the folder you want to have the story in
 
+2.Copy the path and open Command prompt on yout PC
 
-3.Copy the path and open Command prompt on yout PC
-4.wrtie: cd the_full_path_that_you_copied 
-5.hit enter
-6.write: npx create-react-app tss-rpg
+3.wrtie: cd the_full_path_that_you_copied 
 
+4.hit enter
 
-8.after it downloads all necessary files write: cd tss-rpg
+5.write: npx create-react-app tss-rpg
 
-9.download the src file from this repository and interchange it with the existing src file in your tss-rpg folder
+6.after it downloads all necessary files write: cd tss-rpg
 
+7.download the src file from this repository and interchange it with the existing src file in your tss-rpg folder
 
-10.go back to your command prompt and write npm start
+8.go back to your command prompt and write npm start
 
-
-11.The game will load and you can start playing
+9.The game will load and you can start playing
