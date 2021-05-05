@@ -36,7 +36,7 @@
     }
 },{
     "id":3,
-    "text":"'Hey you!' Roman turns around.He's at gunpoint.'You shouldn't have come here punk.'\n You hear the safety click. 'Any last word' Just as you think its the end the man toples over in a string of curses. 'JUMP IN' you turn around and notice there's a man in a car. Door wide open, A gun in his hand, smoke comming out of it.",
+    "text":"'Hey you!' Roman turns around.He's at gunpoint.'You shouldn't have come here punk.'\n You hear the safety click. 'Any last word' Just as you think its the end the man toples over in a string of curses. 'JUMP IN' you turn around and notice there's a man in a car. Door wide open, A gun in his hand, smoke comming out of it. His whole face is obscured by a mask, only his eyes are visible.",
     "options":{
         "id0":{
             "text":"Jump in",
@@ -156,7 +156,7 @@
     "text":"Dr. Picani stands together with the famous marine admiral and a few other gentle-man. Roman decides to approach them.\n They did not call Roman prince charming in school for nothing as he flawlessly joins the conversation and slowly brings the atention to himself. Picani offers him a trial period at The Cartoonist.",
     "options":{
         "id0":{
-            "text":"Stck with your stable job",
+            "text":"Stick with your stable job",
             "next":15
         },
         "id1":{
@@ -217,14 +217,11 @@
     }
 },{
     "id":20,
-    "text":"",
+    "text":"Virgil sits next to Roman and holds out his hand.\n'Come on.I'll hold it until the drug kicks in.'\n 'You'll gonna need to remove your shirt before you'll start holding hands with my son.' Virgil snorts at the commen.\n 'My shirt?' Roman asks, his words slighty slurred together.\n 'Oh now you started being decent?' Virgil jabs at him and Roman has no idea what he's talking about. It's getting harder to focus. 'Did you forget your late night escapade in your birth suit last week? Or was the amount of liquir enough to erase the memory from that empty head of yours.' Roman wanted to say that he has absolutly nothing in common with somebody so uncivilized but he woke up to an empty room instead.",
     "options":{
         "id0":{
-            "text":"",
-            "next":1
-        },"id1":{
-            "text":"",
-            "next":1
+            "text":"next",
+            "next":27
         }
     }
 },{
@@ -250,7 +247,7 @@
     }
 },{
     "id":23,
-    "text":"You get shot. Hurray! the guy in the car shots the gunman after a moment of surprise and grabs your collar and basically drags u into the car. ",
+    "text":"Maybe it was his inner heroism or maybe it was just a desperate act of survival but Roman lunges at the man, detecting the bullet as they both fall to the ground. He hears two loud bangs before he's able to rip the gun out of the mans hand. You notice the man from the car above you, the man laying liply on the ground.\n 'Come on.' The driver says. 'He's knocked out, let's got.' He says grabbing Roman by the colar and hoisting him in one swift movement to his feet. He starts dragging the journalist to the car with more force then Roman expected.",
     "options":{
         "id0":{
             "text":"Too stunned to argue",
@@ -262,7 +259,7 @@
     }
 },{
     "id":24,
-    "text":"'Where do you think you're talking me! I have a gala to attend.'\n 'Not with a bullet in your arm, you're not'",
+    "text":"'Where do you think you're talking me! I have a gala to attend!'\n 'Not filled with led, you're not'\n Roman glances at his torso, two wet spots barerly visible in the dim street light. He puts his hand to it, it comes back sticky and warm.\n Roman can fell his feet becoming fuzzy but the driver steadies him.\n 'Oh no you're not' He says. 'You're not passing out on me until we make it to your favourite doctor.' He finishes as he pushes Roman onto the passanger seat, runs around the car and starts it as soon as he sits himself on the drivers seat.",
     "options":{
         "id0":{
             "text":"next",
@@ -271,7 +268,7 @@
     }
 },{
     "id":25,
-    "text":"You arrive otside of town. As soon as the man stops the car a woman opens the door. 'Virgil? What happened?'\n'Remus got shot'\n 'I told you not to hang out with them!'\n 'You can scold me all you want after we save him. Please?' The woman signs.The man-Virgil turn to Roman once agtain.His face no filled with concern. 'Can you stand?'\n Roman nopds but as sonn as he tries to a sharp pain shoots through his side. Virgil wordlessly scoops him up. Roman did not expect somebody so lanky to have this much strength.",
+    "text":"You arrive otside of town. As soon as the man stops the car a man opens the door of the building. 'Virgil? What happened?'\n'Remus got shot' The driver says as he steps out of the car.\n 'I told you not to hang out with them!'\n 'You can scold me all you want after we save him. Please?' The mam signs and makes his way to the car. The driver-Virgil turn to Roman once again. His face now filled with concern. 'Can you stand?'\n Roman nopds but as sonn as he tries to a sharp pain shoots through his side. Virgil wordlessly scoops him up. Roman did not expect somebody so lanky to have this much strength.",
     "options":{
         "id0":{
             "text":"'If I knew all it took to find a strong guy was to get shot I would have donbe so long ago.'",
@@ -283,16 +280,16 @@
     }
 },{
     "id":26,
-    "text":"'Remus. I swear to god I will drop you!' But his smirk betrays him",
+    "text":"'Remus. I swear to god I will drop you!' But his smirk betrays him.\n Virgil carries him all the way into the house. The other man following worriedly behind. He brinks him into a room filled with little bottles nad medical equipment to the brim. Virgil lets him down getly onto the operating table and the other man raises a syringe. Roman immediatly shrieks away.\n'Whats that? Get that away from me!' He protest. Are they trying to kill him?\n'Oh no.'Virgil turns to him, hands on his hips. Last time you insisted on staying awake you trashed the half place when Dad was trying to sew your wounds. You're staying down this time.'\n 'If you think I will let myself be drugged, you have another thing comming up sunshine...'\n 'Done' Roman looks at the other man. The syringe in his hand is empty. He turns back to Virgil, who's smirking.\n Can't believe it's still this easy to distract you.\n Roman prepares to rebutt him but Virgil takes off his mask and smiles and it takes Roman aback how young he looks. He was expoecting a man in his 40, but Virgil barerly looks 20.",
     "options":{
         "id0":{
-            "text":"",
-            "next":27
+            "text":"Next",
+            "next":20
         }
     }
 },{
     "id":27,
-    "text":"They sedate him. He wakes up.",
+    "text":"Roman gazes down, his torso is neatly bandaged and he can feel a dull pain coming from his right side. He grimaces when he thinks about the fact thathe most likely just earned himself two scars.\n Roman glances around the room. He sees a little note next to the bed. He picks it up. The whole page is coverd with the word rest in bold letters. Next to it is, what Roman assumes to be, a frowning face. He snorts putting the note down. What a curious pair the doctor and his son are.",
     "options":{
         "id0":{
             "text":"Go find Virgil",
@@ -304,7 +301,7 @@
     }
 },{
     "id":28,
-    "text":"'I'm not looking forward to Dee's scolding...'\n 'Well at least Remus safe'\n'Yeah. but who is this guy?'\n'Do yo think it could be...' Virgil shakes his head.\n 'No that's impossible.'",
+    "text":"Roman stands up, his side throbbing as he does so. He debates whether he should  put on a shirt but he can't find one and his whole torso is covered bin bandages anyway so he gives up on the idea pretty quickly.\n He opens the door as quietly as possible and creeps thoward the sound of voices.\n'I'm not looking forward to Dee's scolding...'\n 'Well at least Remus safe'\n'Yeah. but who is this guy?'\n'Do yo think it could be...' Virgil shakes his head.\n 'No that's impossible.'\n Whatever they are talking about Roman gets the feeling it isn't meant for his ears.",
     "options":{
         "id0":{
             "text":"Go back to bed",
@@ -325,7 +322,7 @@
     }
 },{
     "id":30,
-    "text":"Roman settles in. He wonders what's beimg said but he doesnt have to wait too long for Virgil to show up.",
+    "text":"Roman settles in. He wonders what's beimg said but he doesnt have to wait too long for Virgil to show up, who announces himself with a knock.",
     "options":{
         "id0":{
             "text":"Next",
@@ -334,7 +331,7 @@
     }
 },{
     "id":31,
-    "text":"'Hey!'Virgil says as he enters the room. He's tall, maybe even taller then roman if he went slouching. Whit his arms crossed he was looking averywhere but at Roman. 'You're...you're ok?' ",
+    "text":"'Hey!'Virgil says as he enters the room. There is a plate in his hands, a small cloud of steam rises over it and Roman can smell oatmeal. Virgil looks more interested in the content of the plate then anything else in the room. Roman tries to catch his gaze but to no avail, Virgil keeps standing stifly in the doorway. 'You're...you're ok?' ",
     "options":{
         "id0":{
             "text":"'Is that a statement or a question?'",
@@ -346,7 +343,7 @@
     }
 },{
     "id":32,
-    "text":"Virgil snorts and his posture relaxes slightly. He leans against the doorframe, still not meeting Roman's eyes.",
+    "text":"Virgil snorts and his posture relaxes slightly. He leans against the doorframe, still not meeting Roman's eyes.\n 'Sorry for accidentaly kidnapping you.' It's Roman's turn to snort.\n'Believe me when I say this is one of the most pleasant kidnappings I've heard of.' Virgil lips tug slightly upwards.",
     "options":{
         "id0":{
             "text":"Next",
@@ -358,14 +355,11 @@
     }
 },{
     "id":33,
-    "text":"'Hey... um... I should probably give you a ride home.' Virgil finaly utters out. \n'SHIT' Roman tries to shoot up and winces when a sharp pain shoots through his side. Virgil is at his side in a second.\n 'You'll ruin the stitches'\n 'I'm gonna ruin my reputation if miss the party!' Roman says slightly agitated, which earns him a laugh from Virgil.\n 'That's what you're worried about?'\n'I was supposed to secure an interview!'\n 'You'll be securing some rest after I get you home. You're in no condition to be dancing!'",
+    "text":"'Hey... um... I should probably give you a ride home.' Virgil finaly utters out. \n'SHIT' Roman tries to shoot up and winces when a sharp pain shoots through his side. Virgil is at his side in a second.\n 'You'll ruin the stitches'\n 'I'm gonna ruin my reputation if miss the party!' Roman says slightly agitated, which earns him a laugh from Virgil.\n 'That's what you're worried about?'\n'I was supposed to secure an interview!'\n 'You'll be securing some rest after I get you home. You're in no condition to be dancing!' He says gently pushing Roman back onto the operation table. 'Besides. You've slept for a few hours it's almost past 9 in the morning.'\n Roman sinks down dejected.",
     "options":{
         "id0":{
             "text":"Next",
             "next":35
-        },"id1":{
-            "text":"",
-            "next":1
         }
     }
 },{
@@ -379,11 +373,11 @@
     }
 },{
     "id":35,
-    "text":"Roman gets home",
+    "text":"Virgil gets Roman home. The ride is mostly silent and Virgil shifts a lot but Roman's thoughts are elsewhere. The gala was a big opportunity and he completly blew it. He's not sure he';s rteady to face his boss again on Monday.",
     "options":{
         "id0":{
-            "text":"Next",
-            "next":36
+            "text":"CliffHanger",
+            "next":1
         }
     }
 },{
